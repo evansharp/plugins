@@ -3,3 +3,8 @@
 {"timestamp":1585863408,"source":{"uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"target":{"type":"GROUP","name":"studentops"},"description":"webeditor add prefix.0.op true"}
 {"timestamp":1585863408,"source":{"uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"target":{"type":"GROUP","name":"god"},"description":"webeditor add displayname.teacher true"}
 {"timestamp":1585863408,"source":{"uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"target":{"type":"GROUP","name":"god"},"description":"webeditor add prefix.0.op true"}
+{"timestamp":1585864512,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"studentops"},"description":"parent add default"}
+{"timestamp":1585865035,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"default"},"description":"permission set pw.limit.25 true"}
+{"timestamp":1585865083,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"default"},"description":"permission set pw.rate false"}
+{"timestamp":1585865179,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"default"},"description":"permission set pw.admin false"}
+{"timestamp":1585865460,"source":{"uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"target":{"type":"USER","uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"description":"permission set pw.* true"}

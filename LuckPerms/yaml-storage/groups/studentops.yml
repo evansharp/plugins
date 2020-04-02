@@ -1,6 +1,8 @@
 name: studentops
 permissions:
 - displayname.ops
+parents:
+- default
 prefixes:
 - op:
     priority: 0

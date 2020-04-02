@@ -1,1 +1,7 @@
 name: default
+permissions:
+- pw.admin:
+    value: false
+- pw.limit.25
+- pw.rate:
+    value: false

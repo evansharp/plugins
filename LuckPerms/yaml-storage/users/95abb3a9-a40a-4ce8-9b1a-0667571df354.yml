@@ -3,5 +3,6 @@ name: evangsharp
 primary-group: default
 permissions:
 - luckperms.*
+- pw.*
 parents:
 - default
