@@ -41,7 +41,5 @@ wait-time-msg-two: ' &6seconds!'
 
 #Intengers
 tpa-cooldown: 10
-wait-time-before-tp: 5
+wait-time-before-tp: 3
 keep-alive: 60
-
-

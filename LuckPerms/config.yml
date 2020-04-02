@@ -83,7 +83,7 @@ use-server-uuid-cache: false
 #
 # - A H2 database is the default option.
 # - If you want to edit data manually in "traditional" storage files, we suggest using YAML.
-storage-method: h2
+storage-method: YAML
 
 # The following block defines the settings for remote database storage methods.
 #
@@ -497,7 +497,7 @@ auto-op: false
 # Defines if "opped" players should be able to use all LuckPerms commands by default.
 #
 # - Set to false to only allow users who have the permissions access to the commands
-commands-allow-op: true
+commands-allow-op: false
 
 # +----------------------------------------------------------------------------------------------+ #
 # | Vault integration settings                                                                   | #
