@@ -1,0 +1,5 @@
+{"timestamp":1585863251,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"USER","uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"description":"permission set luckperms.* true"}
+{"timestamp":1585863408,"source":{"uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"target":{"type":"GROUP","name":"studentops"},"description":"webeditor add displayname.ops true"}
+{"timestamp":1585863408,"source":{"uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"target":{"type":"GROUP","name":"studentops"},"description":"webeditor add prefix.0.op true"}
+{"timestamp":1585863408,"source":{"uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"target":{"type":"GROUP","name":"god"},"description":"webeditor add displayname.teacher true"}
+{"timestamp":1585863408,"source":{"uniqueId":"95abb3a9-a40a-4ce8-9b1a-0667571df354","name":"evangsharp"},"target":{"type":"GROUP","name":"god"},"description":"webeditor add prefix.0.op true"}

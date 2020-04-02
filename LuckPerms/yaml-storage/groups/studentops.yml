@@ -1,0 +1,6 @@
+name: studentops
+permissions:
+- displayname.ops
+prefixes:
+- op:
+    priority: 0

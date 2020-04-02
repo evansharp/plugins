@@ -1,0 +1,6 @@
+name: god
+permissions:
+- displayname.teacher
+prefixes:
+- op:
+    priority: 0
