@@ -1,0 +1,47 @@
+#  ____    _                       _          _____
+# / ___|  (_)  _ __ ___    _ __   | |   ___  |_   _|  _ __     __ _
+# \___ \  | | | '_ ` _ \  | '_ \  | |  / _ \   | |   | '_ \   / _` |
+#  ___) | | | | | | | | | | |_) | | | |  __/   | |   | |_) | | (_| |
+# |____/  |_| |_| |_| |_| | .__/  |_|  \___|   |_|   | .__/   \__,_|
+#                         |_|                        |_|
+
+#messages
+cooldown-message-first: '&6You must wait a '
+cooldown-message-second: ' &6seconds cooldown in between teleport requests!'
+tprequest-to-online: '&6You can only send a teleport request to online players!'
+tpahererequest-to-online: '&6You can only send a tpahere request to online players!'
+notp-to-yourself: '&6You can''t send a teleport to yourself!'
+notpahere-to-yourself: '&6You can''t send a tpahere request to yourself!'
+usage-first: 'Send a teleport request to a player.'
+usage-fourth: 'Send a tpahere request to a player.'
+usage-second: '/tpa <player>'
+usage-third: '/tpahere <player>'
+console-isnt-player: '&4Console is not a player!'
+teleport-message: '&6Teleporting...'
+player-left-tp-closed: '&6It seems the player to you were teleporting to has left the server!'
+no-teleport-requests: '&6You doesn''t have any current tp requests.'
+rejected-request: ' &6rejected your teleport request!'
+sender-message: ' &6was rejected!'
+timedout-message: '&6Your teleport request timed out.'
+timedouttpahere-message: '&6Your tpahere request timed out.'
+sending-request-message: '&6Sending a teleport request to '
+accept-message: '&6To accept the teleport request, type '
+tpdeny-message: '&6To deny the teleport request, type '
+sent-request-on-you: ' &6has sent a request to teleport to you. '
+sending-tpahererequest-message: '&6Sending a tpahere request to '
+tpahereaccept-message: '&6To accept the tpahere request, type '
+tpaheretpdeny-message: '&6To deny the tpahere request, type '
+tpaheresent-request-on-you: ' &6has sent a tpahere request to you. '
+no-perm-message: '&cYou do not have permission to use this command!'
+tpdisablemsg: '&6The player has disabled the &cteleportion &6for themselves'
+enabledmessage: '&6You have enabled the &cteleportation &6to you!'
+disabledmessage: '&6You have disabled the &cteleportation &6to you!'
+wait-time-msg: '&6You must wait &c'
+wait-time-msg-two: ' &6seconds!'
+
+#Intengers
+tpa-cooldown: 10
+wait-time-before-tp: 5
+keep-alive: 60
+
+
