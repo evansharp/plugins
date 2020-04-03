@@ -1,6 +1,48 @@
 name: studentops
 permissions:
 - displayname.ops
+- pw.admin:
+    value: true
+- pw.admin.update:
+    value: false
+- pw.limit.50
+- bukkit.command.reload:
+    value: false
+- bukkit.command.restart:
+    value: false
+- minecraft.command.whitelist:
+    value: false
+- minecraft.command.xp:
+    value: false
+- minecraft.command.summon:
+    value: false
+- minecraft.command.stop:
+    value: false
+- minecraft.command.spawnpoint:
+    value: false
+- minecraft.command.setworldspawn:
+    value: false
+- minecraft.command.save-off:
+    value: false
+- minecraft.command.op:
+    value: false
+- minecraft.command.gamerule:
+    value: false
+- minecraft.command.give:
+    value: false
+- minecraft.command.gamemode:
+    value: false
+- minecraft.command.difficulty:
+    value: false
+- minecraft.command.deop:
+    value: false
+- minecraft.command.defaultgamemode:
+    value: false
+- minecraft.command.ban:
+    value: false
+- minecraft.command.ban-ip:
+    value: false
+
 parents:
 - default
 prefixes:

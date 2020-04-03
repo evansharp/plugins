@@ -1,8 +1,12 @@
 uuid: 95abb3a9-a40a-4ce8-9b1a-0667571df354
 name: evangsharp
-primary-group: default
+primary-group: studentops
 permissions:
 - luckperms.*
 - pw.*
+- minecraft.command.*:
+    value: true
+- bukkit.command.*:
+    value: true
 parents:
 - default
